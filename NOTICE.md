@@ -1,6 +1,6 @@
 # Notices and sources
 
-This repository contains a composite prompt and Miyu Skill. It incorporates ideas, examples, terminology, or adapted rules from the following public projects and references:
+This repository contains a composite prompt and portable Agent Skill. It incorporates ideas, examples, terminology, or adapted rules from the following public projects and references:
 
 - [addyosmani/clarity](https://github.com/addyosmani/clarity) — MIT
 - [blader/humanizer](https://github.com/blader/humanizer) — MIT
